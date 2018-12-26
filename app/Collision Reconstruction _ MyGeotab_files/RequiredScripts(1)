@@ -1,0 +1,4 @@
+geotab.declare("brands.geotab").registration_html = "";
+
+geotab.declare("brands.my").registration_html = "";
+

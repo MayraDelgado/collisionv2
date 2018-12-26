@@ -1,0 +1,2 @@
+geotab.declare("geotab.addin").addin_app_geotab_com_addins_geotab_accidentreconstruction_manifest_json = "{\r\n\t\"url\": \"https://app.geotab.com/addins/geotab/accidentreconstruction/1.0.9/config.json\"\r\n}";
+
